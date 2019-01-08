@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+	 <title>Web Portfolio: Shriya Paturu</title>
+	 
+	 <style type="text/css">
+	 body {
+		 background-image: url("https://i.pinimg.com/originals/51/db/b9/51dbb9ee1d7afc8e37dfb2288ebf6ad2.jpg")
+	     }
+		 
+		 p {
+		background-color: white;
+		background-color: rgba(255, 255, 255, .85) ;
+		}0
+	 </style>
+	 
+	
+   </head>
+   <body>
+     <!-- The content of your web page will go here -->
+	 <h1>
+	 <font size = "12"> Los Angeles </font>
+	 </h1>
+	 
+	 <div>
+	 <br>
+	 <font size = "5"><font color ="purple">Shriya Paturu and Anchal Saraswat </font>
+	 </br>
+	 </div>
+
+<main>
+    <h2>
+	<font color = "red"><font size ="6"> Main Attractions </font>
+	</h2> 
+	<font color = "fusha"><font size = "5"> The sprawling city of Los Angeles, in Southern California, has long been known internationally in the film and entertainment industry, particularly for Hollywood, a place that has drawn aspiring actors and actresses from across the country for almost a century. Today, LA is a culturally diverse city, with a growing culinary scene, incredible shopping, outstanding museums, and a reputation for being the creative center of America.</font>
+	
+<main>
+    <h3>
+	<font color = "blue"><font size ="6"> Restaurants </font>
+	</h3>
+	<font color = "yellow"><font size ="5"> From California cuisine to organic ingredients, food trucks and Winter and Summer dineL.A., L.A.’s culinary influence can be felt across the country. Food aficionados can experience the restaurants of Wolfgang Puck, Nobu Matsuhisa, Michael Cimarusti, and Suzanne Goin, as well as a new generation of culinary stars like Ricardo Zarate of Rosaline and Kismet Chefs Sarah Hymanson and Sara Kramer. Global kitchens can be found in culinary neighborhoods across Los Angeles.</font>
+	
+<main>
+    <h4>
+	<font color = "teal"><font size ="6">L.A Neighbourhoods </font>
+	</h4>
+	<font color = "pink"><font size="5"> Beverly Hills: </font>
+	<font color = "green"><font size="4">Beverly Hills is known worldwide as a premier destination for luxury. Stroll along world-famous Rodeo Drive and admire the incomparable designer boutiques. Capture a photo-op in the Beverly Gardens Park then hop on the Beverly Hills Trolley Tour.</font>
+	<font color = "pink"><font size= "5"> Santa Monica: </font>
+	<font color = "green"><font size ="4"> Named one of the Top 10 Beach Cities in the World by National Geographic, Santa Monica is one of L.A.’s most popular destinations for domestic and international visitors alike. The iconic Santa Monica Pier is a must-see, featuring an amusement park, historic carousel and numerous dining options.</font>
+	<font color ="pink"><font size ="5"> Hollywood: </font>
+	<font color ="green"><font size ="4">Lights, camera, action! Welcome to world-famous Hollywood, aka Tinseltown and the "Entertainment Capital of the World." At Hollywood & Highland, you can tour the Dolby Theatre, the home of the Oscars.</font>
+	
+<main>
+    <h5>
+	<font color = "purple"><font size="6"> Climate </font>
+	</h5>
+	<font color ="white"><font size="5"> The climate of Los Angeles is characterized by very mild and relatively rainy winters and warm and sunny summers; it is similar to the Mediterranean climate, but it is even milder. In fact, the city is located at a lower latitude than the Mediterranean coasts, so it has milder winters; on the other hand, it is located on the Pacific coast, along which a cool current flows (ie the California Current); therefore, summer is a bit cooler than in the Mediterranean Sea. So this is really a mild climate; moreover, it is kissed by the sun most of the year. </font>
+<main>
+    <h6>
+	<img src="https://www.discoverlosangeles.com/sites/default/files/styles/poi_detail/public/poi_images/santa_monica_pier/h_2000crmlasanta-monica-pier-reddahlia-flickr0_7a5ee37c-5056-a36f-232d46032085d543.png" alt="Santa Monica Pier">
+	<img src="https://www.reader.us/wp-content/uploads/2018/04/Hollywood_Sign_Zuschnitt_640_400_c1_c_c-620x400.jpg" alt="Hollywood">
+	</h6>
